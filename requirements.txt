@@ -1,4 +1,2 @@
 IPython
 requests
-random
-string
